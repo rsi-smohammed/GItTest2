@@ -12,7 +12,7 @@ namespace PdfParsingiTextSharp
         static void Main(string[] args)
         {
 
-            var pp = @"C:\tempp\bb.pdf"; //
+            var pp = @"C:\tempp\bb.pdf"; //testingg
             Console.WriteLine(ExtractTextFromPdf(pp));
         }
 
