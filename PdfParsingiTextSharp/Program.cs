@@ -17,7 +17,7 @@ namespace PdfParsingiTextSharp
 
         }
 
-        public static string ExtractTextFromPdf(string path)
+        public static string ExtractTextFromPdf(string path)//test 7
         {
 
             try
