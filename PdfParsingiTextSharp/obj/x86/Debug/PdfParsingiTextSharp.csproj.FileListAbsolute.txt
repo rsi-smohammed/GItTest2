@@ -1,0 +1,8 @@
+C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\PdfParsingiTextSharp\bin\Debug\PdfParsingiTextSharp.exe
+C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\PdfParsingiTextSharp\bin\Debug\PdfParsingiTextSharp.pdb
+C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\PdfParsingiTextSharp\bin\Debug\itextsharp.dll
+C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.csprojResolveAssemblyReference.cache
+C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.exe
+C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.pdb
+C:\GitWorkSpace\GitTest2\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.exe
+C:\GitWorkSpace\GitTest2\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.pdb
