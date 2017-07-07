@@ -13,7 +13,7 @@ namespace PdfParsingiTextSharp
         {
 
             var pp = @"C:\tempp\bb.pdf"; //testingg
-            Console.WriteLine(ExtractTextFromPdf(pp));//testing agaion
+            Console.WriteLine(ExtractTextFromPdf(pp));//testing agaion ghg
 
         }
 
