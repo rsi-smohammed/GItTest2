@@ -6,3 +6,5 @@ C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\
 C:\Users\mohammeds\Downloads\PdfParsingiTextSharp.20140310\PdfParsingiTextSharp\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.pdb
 C:\GitWorkSpace\GitTest2\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.exe
 C:\GitWorkSpace\GitTest2\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.pdb
+C:\GitWorkSpace\myWS\GItTest2\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.exe
+C:\GitWorkSpace\myWS\GItTest2\PdfParsingiTextSharp\obj\x86\Debug\PdfParsingiTextSharp.pdb
