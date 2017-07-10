@@ -22,7 +22,7 @@ namespace PdfParsingiTextSharp
 
             try
             {
-                using (PdfReader reader = new PdfReader(path))//
+                using (PdfReader reader = new PdfReader(path))////
                 {
                     StringBuilder text = new StringBuilder();
 
