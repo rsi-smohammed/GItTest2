@@ -28,7 +28,7 @@ namespace PdfParsingiTextSharp
 
                     for (int i = 1; i <= reader.NumberOfPages; i++)//testwith psdf1
                     {
-                        text.Append(PdfTextExtractor.GetTextFromPage(reader, i));
+                        text.Append(PdfTextExtractor.GetTextFromPage(reader, i));//test 13
                     }
 
                     return text.ToString();
